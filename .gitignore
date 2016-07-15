@@ -1,0 +1,6 @@
+log.txt
+*.log
+source
+uri
+test.py
+.cache-spotyams
